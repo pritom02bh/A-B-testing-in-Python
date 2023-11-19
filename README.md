@@ -5,8 +5,8 @@ A/B testing is a decision-making methodology that allows to measure the impact o
 
 The Key Characteristics of A/B Testing:   
 
-    --> Controlled Deliverate Experiment
-    --> Based on a randomized set of users
-    --> Defined hypothesis and ability to measure success.  
-    --> There is a controlled group with default experience and at least one test group with new experience.  
+--> Controlled Deliverate Experiment                                                                                                                                
+--> Based on a randomized set of users                                                                                                                                                                    
+--> Defined hypothesis and ability to measure success.                                                                                                                                                              
+--> There is a controlled group with default experience and at least one test group with new experience.                                                                                                                          
 
